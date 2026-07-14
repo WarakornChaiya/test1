@@ -1,1 +1,5 @@
 print("Stackptthon - test.py:1")
+print("Stackptthon - test.py:2")
+print("Stackptthon - test.py:3")
+print("Stackptthon - test.py:4")
+print("Stackptthon - test.py:5")
